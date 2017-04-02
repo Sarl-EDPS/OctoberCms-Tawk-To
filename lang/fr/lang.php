@@ -14,8 +14,8 @@
                 
                 'apikey' => [
                     'value' => [
-                        'title' => 'API key',
-                        'description' => 'Api key Tawk To',
+                        'title' => 'ID du site',
+                        'description' => 'ID du site dans: Administration > XXXX > Réglages des propriétés',
                     ],
                 ],
                 'widgetname' => [

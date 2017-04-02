@@ -12,8 +12,8 @@
                 'description' => 'Window Chat',
                 'apikey' => [
                     'value' => [
-                        'title' => 'API key',
-                        'description' => 'Api key Tawk To',
+                        'title' => 'Site ID',
+                        'description' => 'Site ID in: Administration > XXXXX > Property Settings',
                     ],
                 ],
                 'widgetname' => [
